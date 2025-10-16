@@ -1,4 +1,4 @@
-module project_8 (
+module UART (
   input i_Clk,
   input i_UART_RX,
   output o_UART_TX,
@@ -54,3 +54,4 @@ module project_8 (
     );
 
 endmodule
+
