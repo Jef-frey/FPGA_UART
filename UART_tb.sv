@@ -1,4 +1,4 @@
-module project_8_tb ();
+module UART_tb ();
 
   reg r_clk_tx = 1'b0;
   reg r_clk_rx = 1'b0;
@@ -72,3 +72,4 @@ module project_8_tb ();
     end
 
 endmodule
+
